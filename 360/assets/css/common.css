@@ -1,0 +1,70 @@
+blockquote,body,dd,div,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,input,li,ol,p,pre,td,textarea,th,ul{padding:0;margin:0}
+html,body,button,input,textarea{font:12px/1.5 "Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Tahoma,arial,sans-serif;outline:0}
+ol,ul{list-style:none}
+h1,h2,h3,h4,h5,h6{font-size:100%}
+fieldset,img{border:0;vertical-align:top}
+button,input,select,textarea{vertical-align:middle}
+table{border-collapse:collapse;border-spacing:0}
+address,caption,cite,code,dfn,em,th,var{font-weight:400;font-style:normal}
+a{text-decoration:none;cursor:pointer;color:#464646;outline:0}
+a:hover{color:#f33300}
+body{color:#666;background:#f4f4f4;min-width:1200px}
+.fl{float:left}
+.fr{float:right}
+.red{color:#c00}
+.fs14{font-size:14px}
+.fs18{font-size:18px}
+.clear{clear:both;height:0;font-size:0;overflow:hidden}
+.clearfix:after{content:"020";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{clear:both;zoom:1}
+#bd,#ft,#hd,.topbar{position:relative;z-index:1}
+.topbar{height:40px;border-bottom:1px solid #eaeaea;background:#f9f9f9}
+.topbar a{color:#666}
+.topbar a:hover{color:#f33300}
+.inner{width:1200px;margin:0 auto}
+.top-nav{float:left;margin-left:-23px;padding-top:14px}
+.top-nav li{float:left;height:14px;line-height:14px;border-right:1px solid #ebebeb;padding:0 23px}
+.top-nav li.last{border:0}
+.top-search{float:right;width:235px;height:25px;border:1px solid #eaeaea;background:#fff;margin:6px 0 0 0;position:relative}
+.search-text{float:left;border:0;border:0;height:16px;line-height:16px;width:200px;padding:0 30px 0 5px;margin:4px 0 0 0}
+.search-submit{width:15px;height:14px;border:0;background:url(http://p8.qhimg.com/d/inn/0891cd9a/img/icon_search.png) no-repeat;cursor:pointer;position:absolute;top:6px;right:6px}
+.top-right{float:right}
+.top-right li{float:left;line-height:24px;padding:8px 0 0 19px}
+.feedback{display:block;width:46px;height:24px;background:url(http://p8.qhimg.com/d/inn/0891cd9a/img/feedback.png) no-repeat}
+.feedback:hover{background-position:-47px 0}
+.suggest{border:1px solid #eaeaea;background:#fff}
+.suggest li{height:24px;line-height:24px;padding:0 7px}
+.suggest li.hover{background:#f4f4f4;cursor:pointer}
+#hd{margin-bottom:26px}
+.header{width:1200px;margin:0 auto;height:109px}
+.header .logo{float:left;margin-top:22px}
+.head-ad{float:right;width:594px;height:82px;overflow:hidden;margin-top:13px}
+.head-ad img{width:594px;height:82px}
+.hd-nav{height:37px;background:#2c2c2c}
+.hd-nav ul{height:37px;width:1200px;margin:0 auto}
+.hd-nav li{float:left;line-height:37px;font-size:14px;margin-right:36px}
+.hd-nav li.cur{position:relative;width:79px;height:49px;padding-right:4px;text-align:center;line-height:49px;background:url(http://p8.qhimg.com/d/inn/0891cd9a/img/nav_cur.png) no-repeat;margin:-6px 50px -6px 1px}
+.hd-nav li a{color:#fff;display:block;padding:0 10px}
+.hd-nav li a:hover{background:#393939}
+.hd-nav li.cur a{padding:0}
+.hd-nav li.cur a:hover{background:0;color:#fff}
+#bd{width:1200px;margin:0 auto}
+#gamesite{height:295px;background:#323232;padding-top:15px}
+#gamesite dt,#gamesite dt a{color:#b5b5b5;font-size:16px}
+#gamesite dd{font-size:13px}
+#gamesite dd a{color:#989797}
+#gamesite dd a:hover{color:#f66f38}
+#gamesite .content{width:1200px;margin:0 auto;overflow:hidden}
+#gamesite .list{clear:both;overflow:hidden;zoom:1;width:1216px;margin-bottom:15px}
+#gamesite .list li{float:left;width:229px;height:209px;background:#2d2d2d;margin-right:13.5px;overflow:hidden}
+#gamesite .list dt{padding:23px 15px 12px}
+#gamesite .list dd span{float:left;width:95px;margin:7px 0 7px -4px;padding:0 2px 0 18px;height:18px;line-height:18px;overflow:hidden;background:url(http://p8.qhimg.com/d/inn/0891cd9a/img/line2.png) no-repeat left 4px}
+#gamesite .integrate{clear:both;height:55px;line-height:55px;background:#2d2d2d;padding:0 12px;overflow:hidden}
+#gamesite .integrate dt{float:left}
+#gamesite .integrate dd{overflow:hidden;zoom:1;font-size:13px}
+#gamesite .integrate dd a{margin:0 5px 0 25px}
+#ft{height:180px;border-bottom:1px solid #323232;background:#232323}
+#ft .content{width:1200px;margin:0 auto;text-align:center;font-size:13px;color:#494949;line-height:30px}
+#ft .content a{color:#494949;margin:0 5px}
+#ft .content a:hover{color:#f66f38}
+#ft span{display:block;border-bottom:1px solid #2b2b2b;padding:16px 0 12px 0;margin-bottom:12px}
